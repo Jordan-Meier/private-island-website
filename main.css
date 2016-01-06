@@ -1,0 +1,32 @@
+*{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+img{
+  width: 550px;
+  height: 450px;
+}
+
+h1{
+  color: skyblue;
+  font-style: italic;
+}
+
+h2{
+  color: turquoise;
+}
+
+p{
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+}
+
+li{
+  list-style: square;
+}
